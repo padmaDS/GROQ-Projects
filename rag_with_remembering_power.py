@@ -302,4 +302,8 @@ if __name__ == "__main__":
     print("\n" + "=" * 60)
     print("To run this application, use:")
     print("  chainlit run app.py -w")
+
     print("=" * 60 + "\n")
+
+
+""" to run this application, use:  chainlit run app.py -w """
